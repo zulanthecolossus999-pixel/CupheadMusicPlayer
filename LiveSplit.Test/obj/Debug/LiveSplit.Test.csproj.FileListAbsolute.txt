@@ -1,0 +1,114 @@
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.AssemblyReference.cache
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\x86\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\x64\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\IrcDotNet.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\websocket-sharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Json.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\Codaxy.Xlio.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Memory.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Buffers.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSpli.93E82B60.Up2Date
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.UI.Components.MusicHeadSettings.resources
+C:\Users\Mark Exclamation\LiveSplit.Test\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.GenerateResource.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\x86\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\x64\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\IrcDotNet.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\websocket-sharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Json.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\Codaxy.Xlio.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Memory.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Buffers.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.AssemblyReference.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.UI.Components.MusicHeadSettings.resources
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.GenerateResource.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSpli.93E82B60.Up2Date
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Cuphead.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\x86\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\x64\livesplit_core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Cuphead.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\IrcDotNet.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\websocket-sharp.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Json.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\Codaxy.Xlio.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Memory.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\System.Buffers.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SharpDX.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\LiveSplit.Core.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\UpdateManager.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\CustomFontDialog.dll.config
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\WinFormsColor.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.AssemblyReference.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.UI.Components.MusicHeadSettings.resources
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.GenerateResource.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSpli.93E82B60.Up2Date
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.dll
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\obj\Debug\LiveSplit.Test.pdb
+C:\Users\Mark Exclamation\LiveSplit.Test - Copy - Copy\LiveSplit.Test\LiveSplit.Test\bin\Debug\NAudio.dll
